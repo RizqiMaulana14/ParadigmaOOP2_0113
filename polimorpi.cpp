@@ -34,4 +34,6 @@ int main (){
     obyek->pesan();
     //a.seseorang::pesan();
     //b.seseorang::pesan();
+
+    return 0;
 }
