@@ -17,7 +17,7 @@ class derivedClass : public baseClass{
 
 int main(){
     derivedClass a;
-    a.perkenalan;
+    a.perkenalan();
 
     return 0;
 }
